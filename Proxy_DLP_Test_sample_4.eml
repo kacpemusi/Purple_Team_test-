@@ -1,0 +1,28 @@
+Subject: Proxy_DLP_Test_sample 4.txt
+From: mega@gmail.com
+To: mega_r@gmail.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2341435688617005686=="
+
+--===============2341435688617005686==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+This is a test email with an attachment. - ver. static proxy
+
+--===============2341435688617005686==
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="sample 4.txt"
+MIME-Version: 1.0
+
+WU04NDY0NzhBIHVuaXRlZCBraW5nZG9tIG5hdGlvbmFsIGhlYWx0aCBzZXJ2aWNlDQpXQzg5Njc5
+NEIgdW5pdGVkIGtpbmdkb20gTkhTLg0KTlI2MjU3ODBEIGJyaXRhaW4gbmF0aW9uYWwgaGVhbHRo
+IHNlcnZpY2UNCg0KU1MgOTA3Nzc4IEEgYnJpdGFpbiBraW5nZG9tIE5IUy4NCldaIDUwOTM4NiBE
+IEVuZ2xhbmQgbmF0aW9uYWwgaGVhbHRoIHNlcnZpY2UNCk9UIDY4MTkyNiBDIEVuZ2xhbmQgTkhT
+Lg0KDQpKSCA0NyA3MSA0MSBCIHVuaXRlZCBraW5nZG9tIG5hdGlvbmFsIGhlYWx0aCBzZXJ2aWNl
+DQpaUiA4OCA0OCA2NSBBIHVuaXRlZCBraW5nZG9tIE5IUy4NCk1NIDc3IDAyIDg1IEQgYnJpdGFp
+biBuYXRpb25hbCBoZWFsdGggc2VydmljZQ0KDQpPVCA2ODE5MjYgQyBicml0YWluIGtpbmdkb20g
+TkhTLg0KSkggNDcgNzEgNDEgQiBFbmdsYW5kIG5hdGlvbmFsIGhlYWx0aCBzZXJ2aWNl
+
+--===============2341435688617005686==--
